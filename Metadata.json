@@ -1,0 +1,35 @@
+[
+    {
+      "description": "spidey",
+      "external_url": "https://kba.ai",
+      "image": "https://gold-late-catfish-94.mypinata.cloud/ipfs/QmdABs15nVtyK9e3HJRrP4uznZeeGRDDYKKttaVBfo6eqV",
+      "name": "Spider Man",
+      "attributes": [
+        {
+          "trait_type": "Base",
+          "value": "Starfish"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Big"
+        }
+      ]
+    },
+    {
+      "description": "spidey",
+      "external_url": "https://kba.ai",
+      "image": "https://gold-late-catfish-94.mypinata.cloud/ipfs/QmWXXmcgV1At1ztjqEVF3YGF4zkxTZXPse2dAUu43EZ3kC",
+      "name": "Iron Man",
+      "attributes": [
+        {
+          "trait_type": "Mouth",
+          "value": "Surprised"
+        },
+        {
+          "trait_type": "Level",
+          "value": 5
+        }
+      ]
+    }
+  ]
+  
